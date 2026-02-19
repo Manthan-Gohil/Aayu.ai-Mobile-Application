@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**VEDA** is a comprehensive React Native health and wellness application built with Expo that integrates Ayurvedic principles with modern technology. The app helps users track their Doshas (Vata, Pitta, Kapha), manage their diet according to Ayurvedic guidelines, schedule appointments with Ayurvedic doctors, and receive personalized health recommendations.
+**Aayu.ai** is a comprehensive React Native health and wellness application built with Expo that integrates Ayurvedic principles with modern technology. The app helps users track their Doshas (Vata, Pitta, Kapha), manage their diet according to Ayurvedic guidelines, schedule appointments with Ayurvedic doctors, and receive personalized health recommendations.
 
 **Version:** 1.0.0  
 **Framework:** React Native (Expo)  
