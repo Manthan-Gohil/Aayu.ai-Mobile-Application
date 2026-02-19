@@ -1,4 +1,4 @@
-# VEDA - Ayurvedic Wellness Application
+# Aayu.ai - Ayurvedic Wellness Application
 
 ## Project Overview
 
