@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+.env
+.git
+venv
+.venv
+*.log
+*.pdf
+data.txt
+conversion_to_json.py
+pdf_to_vec.py
+verification_output_3.txt
+python_version.txt
